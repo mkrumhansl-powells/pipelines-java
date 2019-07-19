@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/powellsbooks/Pipelines%20Test%20Project/_apis/build/status/mkrumhansl-powells.pipelines-java?branchName=master)](https://dev.azure.com/powellsbooks/Pipelines%20Test%20Project/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
